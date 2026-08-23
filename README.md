@@ -6,7 +6,7 @@
 
 *  https://arxiv.org/abs/2608.02859
 
-*  The crisis of AI-generated mathematics" makes a provocative case for total human opposition to artificial intelligence in mathematics.
+*  Max Weinreich
 
 * "In this essay, I present the case for total opposition to the use of artificial intelligence in mathematics. I offer proposals for how individuals, departments, journals, and institutions can act in concert to make sure that mathematics survives the coming crisis."
 
